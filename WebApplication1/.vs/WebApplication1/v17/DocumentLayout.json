@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohamed\\Desktop\\Graduation_Project-main (3)\\Graduation_Project-main\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CF7A4F-90B6-42F6-92A8-8B85174E21BC}|WebApplication1\\WebApplication1.csproj|c:\\users\\mohamed\\desktop\\graduation_project-main (3)\\graduation_project-main\\webapplication1\\webapplication1\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CF7A4F-90B6-42F6-92A8-8B85174E21BC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CF7A4F-90B6-42F6-92A8-8B85174E21BC}|WebApplication1\\WebApplication1.csproj|c:\\users\\mohamed\\desktop\\graduation_project-main (3)\\graduation_project-main\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CF7A4F-90B6-42F6-92A8-8B85174E21BC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CF7A4F-90B6-42F6-92A8-8B85174E21BC}|WebApplication1\\WebApplication1.csproj|c:\\users\\mohamed\\desktop\\graduation_project-main (3)\\graduation_project-main\\webapplication1\\webapplication1\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CF7A4F-90B6-42F6-92A8-8B85174E21BC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CF7A4F-90B6-42F6-92A8-8B85174E21BC}|WebApplication1\\WebApplication1.csproj|c:\\users\\mohamed\\desktop\\graduation_project-main (3)\\graduation_project-main\\webapplication1\\webapplication1\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CF7A4F-90B6-42F6-92A8-8B85174E21BC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CF7A4F-90B6-42F6-92A8-8B85174E21BC}|WebApplication1\\WebApplication1.csproj|c:\\users\\mohamed\\desktop\\graduation_project-main (3)\\graduation_project-main\\webapplication1\\webapplication1\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CF7A4F-90B6-42F6-92A8-8B85174E21BC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CF7A4F-90B6-42F6-92A8-8B85174E21BC}|WebApplication1\\WebApplication1.csproj|c:\\users\\mohamed\\desktop\\graduation_project-main (3)\\graduation_project-main\\webapplication1\\webapplication1\\repository\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CF7A4F-90B6-42F6-92A8-8B85174E21BC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repository\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CF7A4F-90B6-42F6-92A8-8B85174E21BC}|WebApplication1\\WebApplication1.csproj|c:\\users\\mohamed\\desktop\\graduation_project-main (3)\\graduation_project-main\\webapplication1\\webapplication1\\repository\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CF7A4F-90B6-42F6-92A8-8B85174E21BC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repository\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CF7A4F-90B6-42F6-92A8-8B85174E21BC}|WebApplication1\\WebApplication1.csproj|c:\\users\\mohamed\\desktop\\graduation_project-main (3)\\graduation_project-main\\webapplication1\\webapplication1\\data\\appdbcontext1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CF7A4F-90B6-42F6-92A8-8B85174E21BC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\appdbcontext1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CF7A4F-90B6-42F6-92A8-8B85174E21BC}|WebApplication1\\WebApplication1.csproj|c:\\users\\mohamed\\desktop\\graduation_project-main (3)\\graduation_project-main\\webapplication1\\webapplication1\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CF7A4F-90B6-42F6-92A8-8B85174E21BC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CF7A4F-90B6-42F6-92A8-8B85174E21BC}|WebApplication1\\WebApplication1.csproj|c:\\users\\mohamed\\desktop\\graduation_project-main (3)\\graduation_project-main\\webapplication1\\webapplication1\\repository\\repository\\projectsrepository\\projectsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CF7A4F-90B6-42F6-92A8-8B85174E21BC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repository\\repository\\projectsrepository\\projectsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CF7A4F-90B6-42F6-92A8-8B85174E21BC}|WebApplication1\\WebApplication1.csproj|c:\\users\\mohamed\\desktop\\graduation_project-main (3)\\graduation_project-main\\webapplication1\\webapplication1\\controllers\\chatcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CF7A4F-90B6-42F6-92A8-8B85174E21BC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\chatcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CF7A4F-90B6-42F6-92A8-8B85174E21BC}|WebApplication1\\WebApplication1.csproj|c:\\users\\mohamed\\desktop\\graduation_project-main (3)\\graduation_project-main\\webapplication1\\webapplication1\\controllers\\admindashboardcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CF7A4F-90B6-42F6-92A8-8B85174E21BC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\admindashboardcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CF7A4F-90B6-42F6-92A8-8B85174E21BC}|WebApplication1\\WebApplication1.csproj|c:\\users\\mohamed\\desktop\\graduation_project-main (3)\\graduation_project-main\\webapplication1\\webapplication1\\migrations\\20240601124710_seedroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CF7A4F-90B6-42F6-92A8-8B85174E21BC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20240601124710_seedroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\Graduation_Project-main (3)\\Graduation_Project-main\\WebApplication1\\WebApplication1\\Startup.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Startup.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\Graduation_Project-main (3)\\Graduation_Project-main\\WebApplication1\\WebApplication1\\Startup.cs",
+              "RelativeToolTip": "WebApplication1\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T19:30:20.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\Graduation_Project-main (3)\\Graduation_Project-main\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\Graduation_Project-main (3)\\Graduation_Project-main\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T19:30:15.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\Graduation_Project-main (3)\\Graduation_Project-main\\WebApplication1\\WebApplication1\\Repository\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repository\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\Graduation_Project-main (3)\\Graduation_Project-main\\WebApplication1\\WebApplication1\\Repository\\Services\\EmailService.cs",
+              "RelativeToolTip": "WebApplication1\\Repository\\Services\\EmailService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T11:27:15.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\Graduation_Project-main (3)\\Graduation_Project-main\\WebApplication1\\WebApplication1\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\Graduation_Project-main (3)\\Graduation_Project-main\\WebApplication1\\WebApplication1\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ProjectController.cs",
+              "ViewState": "AQIAAO8AAAAAAAAAAADwv+8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T22:20:22.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\Graduation_Project-main (3)\\Graduation_Project-main\\WebApplication1\\WebApplication1\\Repository\\Repository\\ProjectsRepository\\ProjectsRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repository\\Repository\\ProjectsRepository\\ProjectsRepository.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\Graduation_Project-main (3)\\Graduation_Project-main\\WebApplication1\\WebApplication1\\Repository\\Repository\\ProjectsRepository\\ProjectsRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repository\\Repository\\ProjectsRepository\\ProjectsRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:50:44.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuestionController.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\Graduation_Project-main (3)\\Graduation_Project-main\\WebApplication1\\WebApplication1\\Controllers\\QuestionController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\QuestionController.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\Graduation_Project-main (3)\\Graduation_Project-main\\WebApplication1\\WebApplication1\\Controllers\\QuestionController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\QuestionController.cs",
+              "ViewState": "AQIAAFEBAAAAAAAAAAAYwG8BAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:50:40.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChatController .cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\Graduation_Project-main (3)\\Graduation_Project-main\\WebApplication1\\WebApplication1\\Controllers\\ChatController .cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ChatController .cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\Graduation_Project-main (3)\\Graduation_Project-main\\WebApplication1\\WebApplication1\\Controllers\\ChatController .cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ChatController .cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAawCgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:49:55.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "profileController.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\Graduation_Project-main (3)\\Graduation_Project-main\\WebApplication1\\WebApplication1\\Controllers\\profileController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\profileController.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\Graduation_Project-main (3)\\Graduation_Project-main\\WebApplication1\\WebApplication1\\Controllers\\profileController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\profileController.cs",
+              "ViewState": "AQIAAB8BAAAAAAAAAAAAwPIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:29:29.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "postController.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\Graduation_Project-main (3)\\Graduation_Project-main\\WebApplication1\\WebApplication1\\Controllers\\postController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\postController.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\Graduation_Project-main (3)\\Graduation_Project-main\\WebApplication1\\WebApplication1\\Controllers\\postController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\postController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:26:41.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\Graduation_Project-main (3)\\Graduation_Project-main\\WebApplication1\\WebApplication1\\Repository\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repository\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\Graduation_Project-main (3)\\Graduation_Project-main\\WebApplication1\\WebApplication1\\Repository\\Services\\AuthService.cs",
+              "RelativeToolTip": "WebApplication1\\Repository\\Services\\AuthService.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAuwJUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T11:27:24.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240601124710_seedroles.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\Graduation_Project-main (3)\\Graduation_Project-main\\WebApplication1\\WebApplication1\\Migrations\\20240601124710_seedroles.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240601124710_seedroles.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\Graduation_Project-main (3)\\Graduation_Project-main\\WebApplication1\\WebApplication1\\Migrations\\20240601124710_seedroles.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20240601124710_seedroles.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T12:47:10.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appDbcontext1.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\Graduation_Project-main (3)\\Graduation_Project-main\\WebApplication1\\WebApplication1\\Data\\appDbcontext1.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\appDbcontext1.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\Graduation_Project-main (3)\\Graduation_Project-main\\WebApplication1\\WebApplication1\\Data\\appDbcontext1.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\appDbcontext1.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAUwG4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T12:50:05.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminDashboardController .cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\Graduation_Project-main (3)\\Graduation_Project-main\\WebApplication1\\WebApplication1\\Controllers\\AdminDashboardController .cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AdminDashboardController .cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\Graduation_Project-main (3)\\Graduation_Project-main\\WebApplication1\\WebApplication1\\Controllers\\AdminDashboardController .cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AdminDashboardController .cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:49:47.073Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
